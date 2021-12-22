@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serifS;
+}
+.roo{
+    border: none;
+    outline: none;
+}
